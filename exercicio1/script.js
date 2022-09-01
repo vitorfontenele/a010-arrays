@@ -4,6 +4,4 @@ const arrStr = ["batata", "cebola", "cenoura"];
 const arrMult = [3.14, 9.81, "alface", "tomate", true, true, false];
 
 //Imprimindo
-console.log(arrNum);
-console.log(arrStr);
-console.log(arrMult);
+console.log(arrNum, arrStr, arrMult);
